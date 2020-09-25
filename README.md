@@ -1,7 +1,7 @@
 # basepack
 Dataset of 2D polygons and 3D polytopes to benchmark packing algorithms. Polytope packing is the problem of how to place objects so that they take up least space.
 
-![example packing of convex polyhedra](packing.png)
+![example packing of convex polyhedra](https://github.com/mrmartin/basepack/raw/master/packing.png)
 
 ## description
 The 2D polygons have a variable number of edges, and 3D polyhedra have a variable number of faces (TBD). Both have variable scale, and the code to generate these is provided.
