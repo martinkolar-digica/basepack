@@ -1,4 +1,4 @@
-# ![basepack](https://github.com/mrmartin/basepack/raw/master/basepack.png)
+# ![basepack](https://github.com/mrmartin/basepack/raw/master/basepack2.png)
 Dataset of 2D polygons and 3D polytopes to benchmark packing algorithms. Polytope packing is the problem of how to place objects so that they take up least space.
 
 ![example packing of convex polyhedra](https://github.com/mrmartin/basepack/raw/master/packing.png)
